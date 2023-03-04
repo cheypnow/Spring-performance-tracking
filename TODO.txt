@@ -1,0 +1,3 @@
+- Collect stats for each endpoint
+- Add settings for choosing collected data (e.g. not collect arguments)
+- Add debug messages and setting to change logger levels
